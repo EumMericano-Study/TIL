@@ -4,11 +4,11 @@
 
 <img src=./image/Machine_Learning.png>
 
-가장 쉬운 Machine Learning은 
+가장 쉬운 Machine Learning : 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODc2OTE2NCwxODUzNTIyNDA5LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTY1NjQ4OTQ2LC01OTg3NjkxNjQsMTg1Mz
+UyMjQwOSwtMjA4ODc0NjYxMl19
 -->
