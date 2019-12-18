@@ -4,11 +4,11 @@
 
 <img src=./image/Machine_Learning.png>
 
-가장 쉬운 Machine Learning : 
+가장 쉬운 Machine Learning : Linear Predictors
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjQ4OTQ2LC01OTg3NjkxNjQsMTg1Mz
-UyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTUxMDI1NjI2NCwtNTk4NzY5MTY0LDE4NT
+M1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
