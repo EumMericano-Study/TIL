@@ -33,7 +33,9 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 <img src=./prediction.png>
 
 
-supervised learning 
+> 학습방법 
+>  - 지도학습
+>  - 비지도학습
 
 
 
@@ -52,7 +54,8 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjAyMzQ2LDE4OTg2MTY4NTgsMTE3MT
-MzMDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQs
-LTU5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMT
+cxMzMwODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2
+NCwtNTk4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ
+==
 -->
