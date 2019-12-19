@@ -77,10 +77,13 @@ Feature vector : 특성에 대한 조건
 
 Weight vector : 각 항목에 대한 가중치
 
-해당 
+<img src=./image/W.png>
+
+해당 항목이 얼마나 결과값에 영향을 미치는지에 대한 정보,
+특성벡터는 i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk2MTk3NDUsLTk2MjEzNjM5NywtMz
-g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
-MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
-U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTY2OTYxNywtOTYyMTM2Mzk3LC0zODk4MT
+M3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMwODIs
+OTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4Nz
+Y5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
