@@ -58,7 +58,9 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 #### abc@gmail.com
 
 입력 :  이메일 Data
+
 출력 :  True of False
+
 목적 : 분류기 f(함수) 추출
 
 
@@ -115,9 +117,10 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNjY1MTUyLC0xMDMyNzA4NTI4LC0yNj
-MwODAwNjIsLTM2NDE4NzU1NCwtOTYyMTM2Mzk3LC0zODk4MTM3
-MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMwODIsOT
-A4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5
-MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTM3NzIxMzM3NiwyNjA2NjUxNTIsLTEwMz
+I3MDg1MjgsLTI2MzA4MDA2MiwtMzY0MTg3NTU0LC05NjIxMzYz
+OTcsLTM4OTgxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LD
+ExNzEzMzA4Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2
+MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl
+19
 -->
