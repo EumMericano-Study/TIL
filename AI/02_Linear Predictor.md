@@ -71,7 +71,7 @@ Feature vector : 특성에 대한 조건
 <img src=./image/FE.png>
 <img src=./image/FEV.png>
 
-해당 Data의 특성을 추출한 후 벡터로 관리한다.
+해당 Data의 특성을 추출한 후 벡터에 매핑한다.
 해당 지점의 특성을 고차원 공간의 점으로 표현할 수 있다.
 이를 이용하여 해당 점과 결과값들의 비중을 비교하여
 특성에 대한 가중치를 예측할 수 있다.
@@ -84,11 +84,9 @@ Weight vector : 각 항목에 대한 가중치
 해당 항목이 얼마나 결과값에 영향을 미치는지에 대한 정보,
 특성벡터는 input값에 의존하지만 가중벡터는 내부 알고리즘에 의존적이다.
 
-
-위 2가지의 vector의 곱을 통해 S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNTgyMDA1LC05NjIxMzYzOTcsLTM4OT
-gxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4
-Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
-g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTQzODA3MzUzOCwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
