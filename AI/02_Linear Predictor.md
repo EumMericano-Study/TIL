@@ -33,7 +33,12 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 <img src=./prediction.png>
 
 
-필요한 데이터 : 
+
+--- Binary Classification ---
+
+필요한 데이터 :   입력값,  True or False 값 (), 
+
+
 
 
 
@@ -47,7 +52,7 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODc5Njk2LDExNzEzMzA4Miw5MDg0Nj
-k4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQs
-MTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTg5ODYxNjg1OCwxMTcxMzMwODIsOTA4ND
+Y5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5MTY0
+LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
