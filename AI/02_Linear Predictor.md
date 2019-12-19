@@ -102,12 +102,16 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 
 
 #### * Decision boundary
+특성 벡터가 2차원 배열 이상이라면?
+
+결정경계 (Decision boundary)를 통해 해당 값이 어느쪽에 더 적합한지 분류한다.
+결정경계는 Feature vector 보다 1차원 높은 형태로 존재해야 한다.
 
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM4MTYyOTYsLTk2MjEzNjM5NywtMz
-g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
-MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
-U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTM2NDE4NzU1NCwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
