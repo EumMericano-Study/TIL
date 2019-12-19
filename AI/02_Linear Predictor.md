@@ -25,10 +25,16 @@ prediction의 종류
 
 Classification : 등급화  (학점 시스템, True or False)
 
-
+<img src=./classification.png>
 
 Ranking : 순위화 
+
+<img src=./ranking.png>
+
 Regression : 수치화 / 구조화  (개미의 주식가격 예측,  문자열 번역 )
+
+<img src=./classification.png>
+
 
 
 
@@ -42,7 +48,7 @@ Regression : 수치화 / 구조화  (개미의 주식가격 예측,  문자열 �
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NTI2NzE3LDExNzEzMzA4Miw5MDg0Nj
+eyJoaXN0b3J5IjpbNzE4NzAzNTkzLDExNzEzMzA4Miw5MDg0Nj
 k4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQs
 MTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
