@@ -1,12 +1,12 @@
 ## Linear Predictor
 
 머신러닝 : 인공지능의 한 분야  /  컴퓨터가 학습할 수 있도록 알고리즘과 기술을 개발하는 분야.
-
-> 예측  
-> 
-> 개선
-> 
-> 자동화
+> 학습방법 
+>  - 지도학습
+>  - 비지도학습
+>  - 예측  
+> -  개선
+> -  자동화
 
 <img src=./image/Machine_Learning.png>
 
@@ -33,9 +33,7 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 <img src=./prediction.png>
 
 
-> 학습방법 
->  - 지도학습
->  - 비지도학습
+
 
 
 
@@ -54,8 +52,8 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMT
-cxMzMwODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2
-NCwtNTk4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTgzNTU5NSwtMTA5MDgwNTY5NCwxODk4Nj
+E2ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwx
+NTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQwOSwtMjA4OD
+c0NjYxMl19
 -->
