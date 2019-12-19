@@ -10,7 +10,7 @@
 
 <img src=./image/Machine_Learning.png>
 
-### 1 Reflex Model
+### 1 Reflex Model : 반응형 모델
 
 가장 쉬운 Machine Learning : Linear Predictors
 
@@ -24,7 +24,7 @@ A --> C(regression       .)
 prediction의 종류
 
 classification : 등급화  (학점 시스템, True or False)
-Regression : 수치화 (개미의 주식가격 예측, )
+Regression : 수치화 (개미의 주식가격 예측,  로또번호 예측 프로그램 )
 
 
 
@@ -38,7 +38,7 @@ Regression : 수치화 (개미의 주식가격 예측, )
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNjg4NjI1LDExNzEzMzA4Miw5MDg0Nj
-k4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQs
-MTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5NTg3NTU3MzIsMTE3MTMzMDgyLDkwOD
+Q2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2
+NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
