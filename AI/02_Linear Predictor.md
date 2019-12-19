@@ -40,9 +40,7 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 
 #
 ### Linear Prediction
-data 를 이용하여  predictor f를 설계
 
-<img src=./image/linear2.png>
 
 
 
@@ -62,8 +60,8 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjEzNjM5NywtMzg5ODEzNzI4LC0xMD
-kwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMzMDgyLDkwODQ2OTgx
-NywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2NCwxOD
-UzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTU0MjAzMjUwOSwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
