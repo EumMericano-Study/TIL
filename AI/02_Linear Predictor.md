@@ -1,11 +1,9 @@
 ## Linear Predictor
 
 머신러닝 : 인공지능의 한 분야  /  컴퓨터가 학습할 수 있도록 알고리즘과 기술을 개발하는 분야.
-> 학습 방법 
 >  - 지도학습
 >  - 비지도학습
 
-> 결과 형태
 >  - 예측  
 > -  개선
 > -  자동화
@@ -112,9 +110,9 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzA4MDA2MiwtMzY0MTg3NTU0LC05Nj
-IxMzYzOTcsLTM4OTgxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2
-ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNT
-EwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTE5MDc0OTE4MTEsLTI2MzA4MDA2MiwtMz
+Y0MTg3NTU0LC05NjIxMzYzOTcsLTM4OTgxMzcyOCwtMTA5MDgw
+NTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLT
+Y1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUy
+MjQwOSwtMjA4ODc0NjYxMl19
 -->
