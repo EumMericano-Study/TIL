@@ -17,10 +17,11 @@ A --> C(regression       .)
 
 <img src=./image/email.png>
 
-Input:  이메일 Data
-Output : 메일이 스팸인지 아닌지의 여부
+입력 :  이메일 Data
+출력 :  True of False
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTI3NDc4OCw5MDg0Njk4MTcsLTY1Nz
+eyJoaXN0b3J5IjpbLTYzNDgwODYyMCw5MDg0Njk4MTcsLTY1Nz
 UyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQw
 OSwtMjA4ODc0NjYxMl19
 -->
