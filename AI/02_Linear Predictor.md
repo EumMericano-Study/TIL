@@ -10,6 +10,11 @@
 > -  개선
 > -  자동화
 
+
+data 를 이용하여  f를 구한다
+<img src=./image/linear2.png>
+
+
 <img src=./image/Machine_Learning.png>
 
 ### 1 Reflex Model : 반응형 모델
@@ -34,9 +39,6 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 
 <img src=./image/prediction.png>
 
-
-data 를 이용하여  predictor f를 
-<img src=./image/linear2.png>
 
 
 #
@@ -74,8 +76,8 @@ Feature vector : 특성에 대한 조건
 Weight vector : 각 항목에 대한 가중치
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk1MzkxODIsLTk2MjEzNjM5NywtMz
-g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
-MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
-U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk4MTE1NzI3OCwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
