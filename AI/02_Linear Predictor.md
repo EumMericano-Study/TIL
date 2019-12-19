@@ -49,12 +49,12 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 
 
 
---  스팸메일 분류기   --
+--  메일주소 구분  --
 
 필요한 데이터 :   입력값,  True or False 값 
 출력 : True or False
 
-<img src=./image/email.png>
+
 
 입력 :  이메일 Data
 출력 :  True of False
@@ -110,9 +110,9 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI3MDg1MjgsLTI2MzA4MDA2MiwtMz
-Y0MTg3NTU0LC05NjIxMzYzOTcsLTM4OTgxMzcyOCwtMTA5MDgw
-NTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLT
-Y1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUy
-MjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwMzUwNTc3MjIsLTEwMzI3MDg1MjgsLT
+I2MzA4MDA2MiwtMzY0MTg3NTU0LC05NjIxMzYzOTcsLTM4OTgx
+MzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Mi
+w5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3
+NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
