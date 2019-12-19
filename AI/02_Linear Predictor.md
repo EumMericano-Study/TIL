@@ -22,6 +22,7 @@
 가장 쉬운 Machine Learning : Linear Predictors
 
 
+
 prediction의 종류
 
 Classification : 등급화  (학점 시스템, True or False)
@@ -37,13 +38,15 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 <img src=./image/prediction.png>
 
 
+data 를 이용하여  predictor f를 
+<img src=./image/linear2.png>
+
 
 #
 ### Linear Prediction
 
-
-
-
+Feature vector : 특성의 
+Weight vector : 각 항목에 대한 가중치
 
 --- Binary Classification ---
 
@@ -60,8 +63,8 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjAzMjUwOSwtOTYyMTM2Mzk3LC0zOD
-k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
-ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
-k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbOTU0NTU5NTY1LC05NjIxMzYzOTcsLTM4OT
+gxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4
+Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
+g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
