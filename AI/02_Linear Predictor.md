@@ -61,8 +61,10 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 목적 : 분류기 f(함수) 추출
 
 
-사용되는 2가지 vector 
->Feature vector & Weight vector
+사용되는 개념 3가지
+>Feature vector 
+>Weight vector
+>Score
 
 Feature vector : 특성에 대한 조건
 
@@ -80,10 +82,13 @@ Weight vector : 각 항목에 대한 가중치
 <img src=./image/W.png>
 
 해당 항목이 얼마나 결과값에 영향을 미치는지에 대한 정보,
-특성벡터는 i
+특성벡터는 input값에 의존하지만 가중벡터는 내부 알고리즘에 의존적이다.
+
+
+위 2가지의 vector의 곱을 통해 S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2OTYxNywtOTYyMTM2Mzk3LC0zODk4MT
-M3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMwODIs
-OTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4Nz
-Y5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjQyNTgyMDA1LC05NjIxMzYzOTcsLTM4OT
+gxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4
+Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
+g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
