@@ -24,19 +24,19 @@ data 를 이용하여  f를 구한다
 > 2. 어떻게 학습시킬 것인가.
 
 
-```
+#
 모델의 종류
 
 Classification : 카테고리화  (학점 시스템, True or False)
-```
+
 <img src=./image/classification.png>
-```
+
 Ranking : 순위화 
-```
+
 <img src=./image/ranking.png>
-```
+
 Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 예측 )
-```
+
 <img src=./image/prediction.png>
 
 
@@ -110,9 +110,9 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDY5MjMwOSwtMjYzMDgwMDYyLC0zNj
-QxODc1NTQsLTk2MjEzNjM5NywtMzg5ODEzNzI4LC0xMDkwODA1
-Njk0LDE4OTg2MTY4NTgsMTE3MTMzMDgyLDkwODQ2OTgxNywtNj
-U3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2NCwxODUzNTIy
-NDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwMzI3MDg1MjgsLTI2MzA4MDA2MiwtMz
+Y0MTg3NTU0LC05NjIxMzYzOTcsLTM4OTgxMzcyOCwtMTA5MDgw
+NTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLT
+Y1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUy
+MjQwOSwtMjA4ODc0NjYxMl19
 -->
