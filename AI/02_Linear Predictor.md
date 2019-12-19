@@ -7,7 +7,16 @@
 가장 쉬운 Machine Learning : Linear Predictors
 
 
+```mermaid
+graph LR
+A[Linear Predictors ] -- > B((Cl   .))
+A --> C(Round Rect)
+```
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
-g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTg4MjQzNjMyOCwtNjU3NTI3MDc4LDE1MT
+AyNTYyNjQsLTU5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2
+NjEyXX0=
 -->
