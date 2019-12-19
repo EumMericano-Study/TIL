@@ -2,13 +2,15 @@
 
 머신러닝 : 인공지능의 한 분야  /  컴퓨터가 학습할 수 있도록 알고리즘과 기술을 개발하는 분야.
 
-> 예측     
+> 예측  
 > 
 > 개선
 > 
-> 
+> 자동화
 
 <img src=./image/Machine_Learning.png>
+
+### 1 Reflex Model
 
 가장 쉬운 Machine Learning : Linear Predictors
 
@@ -36,7 +38,7 @@ Regression : 수치화 (개미의 주식가격 예측, )
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIzODkwNzksMTE3MTMzMDgyLDkwOD
-Q2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2
-NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTIxNjg4NjI1LDExNzEzMzA4Miw5MDg0Nj
+k4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQs
+MTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
