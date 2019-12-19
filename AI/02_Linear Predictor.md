@@ -15,11 +15,7 @@
 가장 쉬운 Machine Learning : Linear Predictors
 
 
-```mermaid
-graph LR
-A[Linear Predictors         /.] --> B(Classification      /.)
-A --> C(regression       .)
-```
+<img src=./image/linear.png>
 
 
 prediction의 종류
@@ -49,7 +45,7 @@ Regression : 수치화 / 구조화  (개미의 주식가격 예측,  문자열 �
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc3NTk1MzgsMTE3MTMzMDgyLDkwOD
-Q2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2
-NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIzNzY1NDAyMiwxMTcxMzMwODIsOTA4ND
+Y5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5MTY0
+LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
