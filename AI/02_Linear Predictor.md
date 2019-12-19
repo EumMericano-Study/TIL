@@ -19,9 +19,6 @@
 > 2. 어떻게 학습시킬 것인가.
 > 3. 
 
-가장 쉬운 Machine Learning : Linear Predictors
-
-
 
 prediction의 종류
 
@@ -44,8 +41,9 @@ data 를 이용하여  predictor f를
 
 #
 ### Linear Prediction
+> 가장 쉬운 Machine Learning 
 
-
+선형예측을 통해 
 
 
 --  스팸메일 분류기   --
@@ -70,13 +68,14 @@ Feature vector : 특성에 대한 조건
 
 해당 Data의 특성을 추출한 후 벡터로 관리한다.
 해당 지점의 특성을 고차원 공간의 점으로 표현할 수 있다.
-이를 이용하여 
+이를 이용하여 해당 점과 결과값들의 비중을 비교하여
+특성에 대한 가중치를 예측할 수 있다.
 
 Weight vector : 각 항목에 대한 가중치
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDIyODgyOSwtOTYyMTM2Mzk3LC0zOD
-k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
-ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
-k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzk1MzkxODIsLTk2MjEzNjM5NywtMz
+g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
+MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
+U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
