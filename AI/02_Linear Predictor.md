@@ -66,7 +66,7 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 >Weight vector
 >Score
 
-Feature vector : 특성에 대한 조건
+#### Feature vector : 특성에 대한 조건
 
 <img src=./image/FE.png>
 <img src=./image/FEV.png>
@@ -77,7 +77,7 @@ Feature vector : 특성에 대한 조건
 특성에 대한 가중치를 예측할 수 있다.
 
 
-Weight vector : 각 항목에 대한 가중치
+#### Weight vector : 각 항목에 대한 가중치
 
 <img src=./image/W.png>
 
@@ -88,9 +88,13 @@ Weight vector : 각 항목에 대한 가중치
 특성벡터는 input값에 의존하지만 가중벡터는 내부 알고리즘에 의존적이다.
 
 
+#### Score :  분류에 사용될 결과 값
+<img src=./image/Score.png>
+<img src=./image/Score.png>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU3MjM0NjcsLTk2MjEzNjM5NywtMz
-g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
-MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
-U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTY1NjM1MTE0NCwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
