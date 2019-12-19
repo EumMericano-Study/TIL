@@ -99,8 +99,12 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 이를 통해 카테고리화 / 수치화 할 수 있다.
 
 
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjI1MDg3NCwtOTYyMTM2Mzk3LC0zOD
+eyJoaXN0b3J5IjpbLTgxMTc3NDY3MCwtOTYyMTM2Mzk3LC0zOD
 k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
 ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
 k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
