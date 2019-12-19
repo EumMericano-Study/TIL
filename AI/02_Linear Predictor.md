@@ -33,17 +33,17 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 <img src=./prediction.png>
 
 
+supervised learning 
+
+
 
 --- Binary Classification ---
 
-필요한 데이터 :   입력값,  True or False 값 (), 
+필요한 데이터 :   입력값,  True or False 값 
+출력 : True or False
 
 
-
-
-
-
--- 스팸메일 분류기 --
+ex ) 스팸메일 분류기 
 
 <img src=./image/email.png>
 
@@ -52,7 +52,7 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODYxNjg1OCwxMTcxMzMwODIsOTA4ND
-Y5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5MTY0
-LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTE3MjAyMzQ2LDE4OTg2MTY4NTgsMTE3MT
+MzMDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQs
+LTU5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
