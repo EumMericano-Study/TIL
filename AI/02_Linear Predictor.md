@@ -22,15 +22,15 @@ prediction의 종류
 
 Classification : 등급화  (학점 시스템, True or False)
 
-<img src=./classification.png>
+<img src=./image/classification.png>
 
 Ranking : 순위화 
 
-<img src=./ranking.png>
+<img src=./image/ranking.png>
 
 Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 예측 )
 
-<img src=./prediction.png>
+<img src=./image/prediction.png>
 
 
 
@@ -38,7 +38,7 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 
 data 를 이용하여  predictor f를 설계
 
-
+<img src=./image/linear2.png>
 
 --- Binary Classification ---
 
@@ -55,7 +55,7 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgwNTcwNDQsLTM4OTgxMzcyOCwtMT
+eyJoaXN0b3J5IjpbLTEwMjQ5OTMzMjUsLTM4OTgxMzcyOCwtMT
 A5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4
 MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMT
 g1MzUyMjQwOSwtMjA4ODc0NjYxMl19
