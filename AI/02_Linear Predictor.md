@@ -7,8 +7,7 @@
 가장 쉬운 Machine Learning : Linear Predictors
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDI1NjI2NCwtNTk4NzY5MTY0LDE4NT
-M1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
+g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
