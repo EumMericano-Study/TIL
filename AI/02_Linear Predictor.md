@@ -51,10 +51,11 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 
 --  메일주소 구분  --
 
-필요한 데이터 :   입력값,  True or False 값 
+필요한 데이터 :   입력값,  True or False 값들의 List
+
 출력 : True or False
 
-
+#### abc@gmail.com
 
 입력 :  이메일 Data
 출력 :  True of False
@@ -110,7 +111,7 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUwNTc3MjIsLTEwMzI3MDg1MjgsLT
+eyJoaXN0b3J5IjpbLTE3MjY0OTM4NjUsLTEwMzI3MDg1MjgsLT
 I2MzA4MDA2MiwtMzY0MTg3NTU0LC05NjIxMzYzOTcsLTM4OTgx
 MzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Mi
 w5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3
