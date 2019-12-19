@@ -19,9 +19,10 @@ A --> C(regression       .)
 
 입력 :  이메일 Data
 출력 :  True of False
+목적 : 분류기 f 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDgwODYyMCw5MDg0Njk4MTcsLTY1Nz
-UyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQw
-OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE3MTMzMDgyLDkwODQ2OTgxNywtNjU3NT
+I3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2NCwxODUzNTIyNDA5
+LC0yMDg4NzQ2NjEyXX0=
 -->
