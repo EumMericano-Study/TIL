@@ -35,14 +35,14 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 
 
 #
-### 지도학습 + linear pred
+### Linear Prediction
 data 를 이용하여  predictor f를 설계
 
 <img src=./image/linear2.png>
 
 
-> 어떻게 f 를 학습시킬 것인가. 
-
+> Q1. 값의 형태 결정
+> 
 
 
 --- Binary Classification ---
@@ -60,7 +60,7 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg2NzY4MjIsLTM4OTgxMzcyOCwtMT
+eyJoaXN0b3J5IjpbLTE1MTUzODAxNTUsLTM4OTgxMzcyOCwtMT
 A5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4
 MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMT
 g1MzUyMjQwOSwtMjA4ODc0NjYxMl19
