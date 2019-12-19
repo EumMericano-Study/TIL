@@ -13,6 +13,14 @@ A[Linear Predictors         /.] --> B(Classification      /.)
 A --> C(regression       .)
 ```
 
+prediction의 종류
+
+classification : 등급화  (학점 시스템, True or False)
+Regression : 수치화 (갬)
+
+
+
+
 -- 스팸메일 분류기 --
 
 <img src=./image/email.png>
@@ -22,7 +30,7 @@ A --> C(regression       .)
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODI1NzA2NywxMTcxMzMwODIsOTA4ND
-Y5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5MTY0
-LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NjU0NzE0NTMsMTE3MTMzMDgyLDkwOD
+Q2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2
+NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
