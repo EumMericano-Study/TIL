@@ -14,6 +14,10 @@
 
 ### 1 Reflex Model : 반응형 모델
 
+> 예측에서 해야할 일 
+> 1. 예측값의 형태를 결정
+> 2. 어떻게 학습시킬 것인가.
+> 3. 
 
 가장 쉬운 Machine Learning : Linear Predictors
 
@@ -41,8 +45,6 @@ data 를 이용하여  predictor f를 설계
 <img src=./image/linear2.png>
 
 
-> Q1. 값의 형태 결정
-> 
 
 
 --- Binary Classification ---
@@ -60,8 +62,8 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUzODAxNTUsLTM4OTgxMzcyOCwtMT
-A5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4
-MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMT
-g1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTk2MjEzNjM5NywtMzg5ODEzNzI4LC0xMD
+kwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMzMDgyLDkwODQ2OTgx
+NywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2NCwxOD
+UzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
