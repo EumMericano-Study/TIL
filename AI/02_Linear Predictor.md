@@ -45,7 +45,8 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 > 가장 쉬운 Machine Learning 
 
 선형예측을 통해 각 특성들의 관계를 파악한다.
-가장 구현하기 쉽고, 많은 모델에 적용할 수 
+가장 구현하기 쉽고, 많은 모델에 적용할 수 있다.
+
 
 
 --  스팸메일 분류기   --
@@ -73,10 +74,12 @@ Feature vector : 특성에 대한 조건
 이를 이용하여 해당 점과 결과값들의 비중을 비교하여
 특성에 대한 가중치를 예측할 수 있다.
 
+
 Weight vector : 각 항목에 대한 가중치
 
+해당 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMzODU1MDYsLTk2MjEzNjM5NywtMz
+eyJoaXN0b3J5IjpbLTE1OTk2MTk3NDUsLTk2MjEzNjM5NywtMz
 g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
 MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
 U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
