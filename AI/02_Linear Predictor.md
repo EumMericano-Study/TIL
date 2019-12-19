@@ -90,11 +90,16 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 
 #### Score :  분류에 사용될 결과 값
 <img src=./image/Score.png>
-<img src=./image/Score.png>
 
+
+<img src=./image/ScoreC.png>
+
+
+해당 Data가 해당 f에서 어떤 결과를 가지게 되었는지 표시
+이를 통해 classification / prediction을 진행한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjM1MTE0NCwtOTYyMTM2Mzk3LC0zOD
-k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
-ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
-k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTI5MDA3OTcsLTk2MjEzNjM5NywtMz
+g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
+MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
+U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
