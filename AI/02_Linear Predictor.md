@@ -66,6 +66,7 @@ data 를 이용하여  predictor f를
 Feature vector : 특성에 대한 조건
 
 <img src=./image/FE.png>
+<img src=./image/FEV.png>
 
 
 해당 Data의 특성을 추출한 후 벡터로 관리한다..
@@ -73,8 +74,8 @@ Feature vector : 특성에 대한 조건
 Weight vector : 각 항목에 대한 가중치
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NjAwOTMzLC05NjIxMzYzOTcsLTM4OT
-gxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4
-Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
-g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTU1NzkyNDYxMCwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
