@@ -14,10 +14,8 @@
 
 ### 1 Reflex Model : 반응형 모델
 
+
 가장 쉬운 Machine Learning : Linear Predictors
-
-
-<img src=./image/linear.png>
 
 
 prediction의 종류
@@ -38,6 +36,9 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 
 
 
+data 를 이용하여  predictor f를 설계
+
+
 
 --- Binary Classification ---
 
@@ -54,8 +55,8 @@ ex ) 스팸메일 분류기
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTgxMzcyOCwtMTA5MDgwNTY5NCwxOD
-k4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLTY1NzUyNzA3
-OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQwOSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE5OTgwNTcwNDQsLTM4OTgxMzcyOCwtMT
+A5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Miw5MDg0Njk4
+MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3NjkxNjQsMT
+g1MzUyMjQwOSwtMjA4ODc0NjYxMl19
 -->
