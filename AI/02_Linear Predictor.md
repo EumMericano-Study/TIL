@@ -22,10 +22,9 @@ data 를 이용하여  f를 구한다
 > 예측에서 해야할 일 
 > 1. 예측값의 형태를 결정
 > 2. 어떻게 학습시킬 것인가.
-> 3. 
 
 
-prediction의 종류
+모델의 종류
 
 Classification : 등급화  (학점 시스템, True or False)
 
@@ -45,7 +44,8 @@ Regression : 수치화 / 구조화  ( 문자열 번역, 개미의 주식가격 �
 ### Linear Prediction
 > 가장 쉬운 Machine Learning 
 
-선형예측을 통해 
+선형예측을 통해 각 특성들의 관계를 파악한다.
+가장 구현하기 쉽고, 많은 모델에 적용할 수 
 
 
 --  스팸메일 분류기   --
@@ -76,8 +76,8 @@ Feature vector : 특성에 대한 조건
 Weight vector : 각 항목에 대한 가중치
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTE1NzI3OCwtOTYyMTM2Mzk3LC0zOD
-k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
-ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
-k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDMzODU1MDYsLTk2MjEzNjM5NywtMz
+g5ODEzNzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMz
+MDgyLDkwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLT
+U5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
