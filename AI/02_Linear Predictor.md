@@ -82,11 +82,14 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 
 <img src=./image/W.png>
 
-해당 항목이 얼마나 결과값에 영향을 미치는지에 대한 정보,
+해당 항목이 얼마나 결과값에 영향을 미치는지에 대한 정보
+
 해당값이 양수이면 True값이 출력되도록 결과값에 기여하고, 
+
 반대로 음수라면 False값이 출력되도록 결과값에 기여하게 된다.
 
-특성벡터는 input값에 의존하지만 가중벡터는 내부 알고리즘에 의존적이다.
+
+*특성벡터는 input값에 의존하지만 가중벡터는 내부 알고리즘에 의존적이다.
 
 
 #### Score :  분류에 사용될 결과 값
@@ -101,6 +104,7 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 
 
 
+카테고리화를 할때는 Decision boundary 를 통해 진행한다.
 
 #### * Decision boundary
 특성 벡터가 2차원 배열 이상이라면?
@@ -111,9 +115,9 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY0OTM4NjUsLTEwMzI3MDg1MjgsLT
-I2MzA4MDA2MiwtMzY0MTg3NTU0LC05NjIxMzYzOTcsLTM4OTgx
-MzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4Mi
-w5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OTg3
-NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTc2Mjk5OTQ0NSwtMTAzMjcwODUyOCwtMj
+YzMDgwMDYyLC0zNjQxODc1NTQsLTk2MjEzNjM5NywtMzg5ODEz
+NzI4LC0xMDkwODA1Njk0LDE4OTg2MTY4NTgsMTE3MTMzMDgyLD
+kwODQ2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2
+OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
 -->
