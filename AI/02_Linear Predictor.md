@@ -13,10 +13,10 @@ A[Linear Predictors         /.] --> B(Classification      /.)
 A --> C(regression       .)
 ```
 
-
+<img src=./image/Machine_Learning.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM5ODUzMTUsOTA4NDY5ODE3LC02NT
-c1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5MTY0LDE4NTM1MjI0
-MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDYwODg1OTQzLDkwODQ2OTgxNywtNjU3NT
+I3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2NCwxODUzNTIyNDA5
+LC0yMDg4NzQ2NjEyXX0=
 -->
