@@ -45,7 +45,7 @@ data 를 이용하여  predictor f를
 #
 ### Linear Prediction
 
-Feature vector : 특성의 
+Feature vector : 특성에 대한 조건
 Weight vector : 각 항목에 대한 가중치
 
 --- Binary Classification ---
@@ -62,9 +62,10 @@ ex ) 스팸메일 분류기
 출력 :  True of False
 목적 : 분류기 f(함수) 추출
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NTU5NTY1LC05NjIxMzYzOTcsLTM4OT
-gxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2ODU4LDExNzEzMzA4
-Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNTEwMjU2MjY0LC01OT
-g3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTQ5NTI3NjAyOSwtOTYyMTM2Mzk3LC0zOD
+k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
+ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
+k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
