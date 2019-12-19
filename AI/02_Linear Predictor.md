@@ -12,6 +12,8 @@
 
 
 data 를 이용하여  f를 구한다
+
+
 <img src=./image/linear2.png>
 
 
@@ -110,8 +112,9 @@ Structured prediction : 수치화 / 구조화  ( 문자열 번역, 개미의 주
 <img src=./image/DB.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDE4NzU1NCwtOTYyMTM2Mzk3LC0zOD
-k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
-ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
-k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTI2MzA4MDA2MiwtMzY0MTg3NTU0LC05Nj
+IxMzYzOTcsLTM4OTgxMzcyOCwtMTA5MDgwNTY5NCwxODk4NjE2
+ODU4LDExNzEzMzA4Miw5MDg0Njk4MTcsLTY1NzUyNzA3OCwxNT
+EwMjU2MjY0LC01OTg3NjkxNjQsMTg1MzUyMjQwOSwtMjA4ODc0
+NjYxMl19
 -->
