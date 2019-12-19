@@ -9,14 +9,16 @@
 
 ```mermaid
 graph LR
-A[Linear Predictors ] -- > B((Cl   .))
-A --> C(Round Rect)
+A[Linear Predictors         /.] --> B(Classification      /.)
+A --> C(regression       .)
 ```
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjQzNjMyOCwtNjU3NTI3MDc4LDE1MT
-AyNTYyNjQsLTU5ODc2OTE2NCwxODUzNTIyNDA5LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMD
+I1NjI2NCwtNTk4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2
+MTJdfQ==
 -->
