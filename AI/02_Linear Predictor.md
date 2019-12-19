@@ -68,13 +68,14 @@ Feature vector : 특성에 대한 조건
 <img src=./image/FE.png>
 <img src=./image/FEV.png>
 
-
-해당 Data의 특성을 추출한 후 벡터로 관리한다..
+해당 Data의 특성을 추출한 후 벡터로 관리한다.
+해당 지점의 특성을 고차원 공간의 점으로 표현할 수 있다.
+이를 이용하여 
 
 Weight vector : 각 항목에 대한 가중치
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzkyNDYxMCwtOTYyMTM2Mzk3LC0zOD
+eyJoaXN0b3J5IjpbMTEyNDIyODgyOSwtOTYyMTM2Mzk3LC0zOD
 k4MTM3MjgsLTEwOTA4MDU2OTQsMTg5ODYxNjg1OCwxMTcxMzMw
 ODIsOTA4NDY5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNT
 k4NzY5MTY0LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
