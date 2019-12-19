@@ -24,6 +24,7 @@ A --> C(regression       .)
 prediction의 종류
 
 classification : 등급화  (학점 시스템, True or False)
+R
 Regression : 수치화 (개미의 주식가격 예측,  로또번호 예측 프로그램 )
 
 
@@ -38,7 +39,7 @@ Regression : 수치화 (개미의 주식가격 예측,  로또번호 예측 프�
 목적 : 분류기 f(함수) 추출
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg3NTU3MzIsMTE3MTMzMDgyLDkwOD
-Q2OTgxNywtNjU3NTI3MDc4LDE1MTAyNTYyNjQsLTU5ODc2OTE2
-NCwxODUzNTIyNDA5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTUzMzU5ODEzMiwxMTcxMzMwODIsOTA4ND
+Y5ODE3LC02NTc1MjcwNzgsMTUxMDI1NjI2NCwtNTk4NzY5MTY0
+LDE4NTM1MjI0MDksLTIwODg3NDY2MTJdfQ==
 -->
