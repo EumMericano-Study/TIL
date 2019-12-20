@@ -2,19 +2,21 @@
 #
 <img src=./image/RoadMap.png>
 
+
+최적화의 두 종류 :
+
+1) 최적화 문제  			(Optimization Problem)
+
+2) 최적화 알고리즘 (Optimization Algorithm)
+
+
 ## Loss Minimization
 
-> **최적화** 
+> **최적화 문제** 
 > (optimization problem)
 
 가중벡터의 최적화를 통해 손실을 최소화 한다.
 
-
-최적화의 두 종류 :
-
-1) 최적화 문제
-
-2) 최적화 알고리즘
 
 
 <img src=./image/LossFunction.png>
@@ -80,7 +82,8 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 |특징          | 평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function| 중앙값을 사용하여 특이치에 강함 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjYzMDYyLDEwMTY2MzA2MiwtMTM0MD
-k0MjY2LDIxNDM5ODkxMTAsNTg0MzcyNTcyLC0xMjA1NTIyMDA1
-LC01NzYxNTY4MiwtMTM4MDMxNDQ4MCwxMzk2ODkxMzg5XX0=
+eyJoaXN0b3J5IjpbLTEyMzI1NjI1MDgsMTAxNjYzMDYyLDEwMT
+Y2MzA2MiwtMTM0MDk0MjY2LDIxNDM5ODkxMTAsNTg0MzcyNTcy
+LC0xMjA1NTIyMDA1LC01NzYxNTY4MiwtMTM4MDMxNDQ4MCwxMz
+k2ODkxMzg5XX0=
 -->
