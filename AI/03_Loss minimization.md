@@ -43,9 +43,11 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 <img src=./image/LinearRegression.png>
 
 
+무수한 점들과 1차원 그래프 linear prediction의 차이를 비교하게 된다,
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOT
-Y4OTEzODldfQ==
+eyJoaXN0b3J5IjpbLTEyMDU1MjIwMDUsLTU3NjE1NjgyLC0xMz
+gwMzE0NDgwLDEzOTY4OTEzODldfQ==
 -->
