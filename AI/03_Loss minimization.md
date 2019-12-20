@@ -78,10 +78,9 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 |의 미 | residual의 제곱을 이용한 Loss Function            |residual의 중앙값을 이용한 Loss Function |
 |계산법          |<img src=./image/squared.png> | <img src=./image/median.png>           |
 |특징          | 평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function| 중앙값을 사용하여 특이치에 강함 |
-| 평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function| 중앙값을 사용하여 특이치에 강함 |평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3NjIyMzcsMTAxNjYzMDYyLC0xMz
-QwOTQyNjYsMjE0Mzk4OTExMCw1ODQzNzI1NzIsLTEyMDU1MjIw
-MDUsLTU3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOTY4OTEzODldfQ
-==
+eyJoaXN0b3J5IjpbMTAxNjYzMDYyLDEwMTY2MzA2MiwtMTM0MD
+k0MjY2LDIxNDM5ODkxMTAsNTg0MzcyNTcyLC0xMjA1NTIyMDA1
+LC01NzYxNTY4MiwtMTM4MDMxNDQ4MCwxMzk2ODkxMzg5XX0=
 -->
