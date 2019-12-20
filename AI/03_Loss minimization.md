@@ -13,7 +13,8 @@
 2) 최적화 알고리즘
 
 
-
+<>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAzMTQ0ODAsMTM5Njg5MTM4OV19
+eyJoaXN0b3J5IjpbNTYwOTYxMjMwLC0xMzgwMzE0NDgwLDEzOT
+Y4OTEzODldfQ==
 -->
