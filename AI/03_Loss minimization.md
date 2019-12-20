@@ -13,8 +13,10 @@
 2) 최적화 알고리즘
 
 
-<imng >
+<img src=./image/LossFunction>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNjI4Mzk3LC0xMzgwMzE0NDgwLDEzOT
-Y4OTEzODldfQ==
+eyJoaXN0b3J5IjpbLTIwMzU1NTExODQsLTEzODAzMTQ0ODAsMT
+M5Njg5MTM4OV19
 -->
