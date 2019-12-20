@@ -1,3 +1,7 @@
+
+#
+<img src=./image/RoadMap.png>
+
 ## Loss Minimization
 
 > **최적화** 
@@ -72,7 +76,7 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 |특징          | 평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function| 중앙값을 사용하여 특이치에 강함 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAwNjUwMzMsMjE0Mzk4OTExMCw1OD
-QzNzI1NzIsLTEyMDU1MjIwMDUsLTU3NjE1NjgyLC0xMzgwMzE0
-NDgwLDEzOTY4OTEzODldfQ==
+eyJoaXN0b3J5IjpbLTEzNDA5NDI2NiwyMTQzOTg5MTEwLDU4ND
+M3MjU3MiwtMTIwNTUyMjAwNSwtNTc2MTU2ODIsLTEzODAzMTQ0
+ODAsMTM5Njg5MTM4OV19
 -->
