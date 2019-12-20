@@ -38,8 +38,14 @@ Margin : 얼마나 맞았는지를 기록
 
 
 단순한 Score로만 따진다면  0, 1이지만,
-margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알
+margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 수 있다.
+
+<img src=./image/LinearRegression.png>
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk1OTAxNjYsLTEzODAzMTQ0ODAsMT
-M5Njg5MTM4OV19
+eyJoaXN0b3J5IjpbLTU3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOT
+Y4OTEzODldfQ==
 -->
