@@ -44,10 +44,12 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 
 
 무수한 점들과 1차원 그래프 linear prediction의 차이를 비교하게 된다,
- 
+이때 각 점과 선사이의 거리를 residual (잔여, 공백) 이라고 명하며 이를 기록한다.
 
+
+Linear regression ->  Loss Function 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUzMDU4MjMsLTEyMDU1MjIwMDUsLT
-U3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOTY4OTEzODldfQ==
+eyJoaXN0b3J5IjpbLTUxODk1NjIyOCwtMTIwNTUyMjAwNSwtNT
+c2MTU2ODIsLTEzODAzMTQ0ODAsMTM5Njg5MTM4OV19
 -->
