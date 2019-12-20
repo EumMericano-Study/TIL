@@ -7,8 +7,13 @@
 
 
 최적화의 두 종류 :
+
 1) 최적화 문제
-2) 최적화 알골
+
+2) 최적화 알고리즘
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDE1OTk3OCwxMzk2ODkxMzg5XX0=
+eyJoaXN0b3J5IjpbLTEzODAzMTQ0ODAsMTM5Njg5MTM4OV19
 -->
