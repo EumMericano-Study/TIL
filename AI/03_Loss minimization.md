@@ -53,11 +53,11 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 
 |                |Squared Loss|Absolute Loss|
 |----------------|-------------------------------|-----------------------------|
-|의 미 |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|계산법          |`"Isn't this fun?"`            |            |
+|의 미 | residual의 제곱을 이용한 Loss Function            |residual의 중앙값을 이용한 Loss Function |
+|계산법          |<img src=./image/squared.png> | <img src=./image/median.png>           |
 |특징          | 평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function| 중앙값을 사용하여 특이치에 강함 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQwNTg2MjIsLTEyMDU1MjIwMDUsLT
+eyJoaXN0b3J5IjpbLTExMTcyNTc3NTEsLTEyMDU1MjIwMDUsLT
 U3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOTY4OTEzODldfQ==
 -->
