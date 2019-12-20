@@ -36,7 +36,10 @@ Margin : 얼마나 맞았는지를 기록
 
 <img src=./image/ZOL2.png>
 
+
+단순한 Score로만 따진다면  0, 1이지만,
+margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYzMTM5NjIsLTEzODAzMTQ0ODAsMT
+eyJoaXN0b3J5IjpbLTE3MDk1OTAxNjYsLTEzODAzMTQ0ODAsMT
 M5Njg5MTM4OV19
 -->
