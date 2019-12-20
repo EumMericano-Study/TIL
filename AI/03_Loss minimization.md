@@ -27,11 +27,13 @@ Margin : 얼마나 맞았는지를 기록
 <img src=./image/MarginScoreQnA.png>
 
 
--- 
+-- Zero One Loss
+
+w = [2, -1], 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMwMjgzODMsLTEzODAzMTQ0ODAsMT
+eyJoaXN0b3J5IjpbLTE5NTUxNDgyNTIsLTEzODAzMTQ0ODAsMT
 M5Njg5MTM4OV19
 -->
