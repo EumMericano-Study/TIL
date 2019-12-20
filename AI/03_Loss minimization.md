@@ -59,6 +59,9 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 
 <img src=./image/SL3.png> 
 
+<img src=./image/keyIdea.png> 
+
+* 대부분의 경우 Data에 적합할 수 없게 설계되었다.
 
 
 
@@ -69,7 +72,7 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 |특징          | 평균을 사용하여 대부분의 영역에서 사용 가능 인기있는 Loss Function| 중앙값을 사용하여 특이치에 강함 |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mzk4OTExMCw1ODQzNzI1NzIsLTEyMD
-U1MjIwMDUsLTU3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOTY4OTEz
-ODldfQ==
+eyJoaXN0b3J5IjpbMzE4NTcxNDcsMjE0Mzk4OTExMCw1ODQzNz
+I1NzIsLTEyMDU1MjIwMDUsLTU3NjE1NjgyLC0xMzgwMzE0NDgw
+LDEzOTY4OTEzODldfQ==
 -->
