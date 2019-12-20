@@ -29,7 +29,8 @@ Margin : 얼마나 맞았는지를 기록
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODUzNTA1MSwtMTM4MDMxNDQ4MCwxMz
-k2ODkxMzg5XX0=
+eyJoaXN0b3J5IjpbLTEzMDQ4NzMyMjMsLTEzODAzMTQ0ODAsMT
+M5Njg5MTM4OV19
 -->
