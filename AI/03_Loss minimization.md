@@ -15,8 +15,13 @@
 
 <img src=./image/LossFunction>
 
+LossFunction
+```
+Loss(x , y , w)  -> 인풋 x가 있고 y를 출력하기 위해 w를 조정한다.
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU1NTExODQsLTEzODAzMTQ0ODAsMT
-M5Njg5MTM4OV19
+eyJoaXN0b3J5IjpbMTMwNjM5NjYzNSwtMTM4MDMxNDQ4MCwxMz
+k2ODkxMzg5XX0=
 -->
