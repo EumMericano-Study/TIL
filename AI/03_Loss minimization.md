@@ -13,8 +13,8 @@
 2) 최적화 알고리즘
 
 
-<>
+<imng >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwOTYxMjMwLC0xMzgwMzE0NDgwLDEzOT
+eyJoaXN0b3J5IjpbOTIwNjI4Mzk3LC0xMzgwMzE0NDgwLDEzOT
 Y4OTEzODldfQ==
 -->
