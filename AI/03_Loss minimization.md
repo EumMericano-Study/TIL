@@ -51,9 +51,13 @@ margin 값을 통해 해당 값이 어느정도 위치에 있는 값인지 알 �
 > - Squared Loss
 > - Absolute Loss
 
-
+|                |Squared Loss|Absolute Loss|
+|----------------|-------------------------------|-----------------------------|
+|의 미 |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|계산법          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|특          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTk1Nzc2OCwtMTIwNTUyMjAwNSwtNT
-c2MTU2ODIsLTEzODAzMTQ0ODAsMTM5Njg5MTM4OV19
+eyJoaXN0b3J5IjpbLTE4ODg3Njg1NDYsLTEyMDU1MjIwMDUsLT
+U3NjE1NjgyLC0xMzgwMzE0NDgwLDEzOTY4OTEzODldfQ==
 -->
