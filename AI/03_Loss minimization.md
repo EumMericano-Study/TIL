@@ -27,10 +27,11 @@ Margin : 얼마나 맞았는지를 기록
 <img src=./image/MarginScoreQnA.png>
 
 
+-- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ4NzMyMjMsLTEzODAzMTQ0ODAsMT
+eyJoaXN0b3J5IjpbLTE5MjMwMjgzODMsLTEzODAzMTQ0ODAsMT
 M5Njg5MTM4OV19
 -->
