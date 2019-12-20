@@ -28,12 +28,15 @@ Margin : 얼마나 맞았는지를 기록
 
 
 -- Zero One Loss
+(Binary Classification)
 
-w = [2, -1], 
+<img src=./image/ZOL.png>
 
+<img src=./image/ZOL1.png>
 
+<img src=./image/ZOL2.png>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTUxNDgyNTIsLTEzODAzMTQ0ODAsMT
+eyJoaXN0b3J5IjpbLTExNDYzMTM5NjIsLTEzODAzMTQ0ODAsMT
 M5Njg5MTM4OV19
 -->
