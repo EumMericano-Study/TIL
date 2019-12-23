@@ -52,8 +52,8 @@ Gradient Descent 의 문제점?
 * Key Point *
 기본적으로 데이터가 많아야 한다.
 
-GD가 더 정확하지만, SGD가 
-
+GD가 더 정확하지만, SGD가 더 빠르다.
+(나눈만큼 비정확하지만 )
 ```
 
 <img src=./image/SGD_GD.png>
@@ -74,6 +74,6 @@ classification의 기울기는 항상 0 or 1이다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE0NjkzMiwtNDgzNzEzMTkzLC0xOT
+eyJoaXN0b3J5IjpbMTQxNDA5NTc3NywtNDgzNzEzMTkzLC0xOT
 M2MTI0NTc1XX0=
 -->
