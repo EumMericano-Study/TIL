@@ -32,11 +32,16 @@ Train Data의 미분값의 전체 평균을 구한다.
 Gradient Descent 의 문제점?
 > Too Slow....
 > 
-> if... data size > 
+> if... data size > 100000000?
+> 
+> and..  여러단계를 거쳐 최적해를 찾아간다면..?
 
 <img src=./image/ele.png>
 
-매 step마다 모든 Train Data를 살펴본다.
+매 step마다 모든 Train Data를 살펴본다는 점은
+
+매우 비효율적이다.
+
 
 #### Stochastic Gradient Descent
 
@@ -64,6 +69,6 @@ classification의 기울기는 항상 0 or 1이다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzI3NDE3OCwtNDgzNzEzMTkzLC0xOT
-M2MTI0NTc1XX0=
+eyJoaXN0b3J5IjpbLTE0OTk5MTgwMTQsLTQ4MzcxMzE5MywtMT
+kzNjEyNDU3NV19
 -->
