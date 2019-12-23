@@ -21,7 +21,10 @@
 
 <img src=./image/GD.png>
  
-반복 최적화를 통해 최적 w를 구한다.
+반복 최적화를 통해 최적의 기울기(w)를 구한다.
+사람이 계산한다면 어려운 계산이 아니지만, 컴퓨터가 이를 계산하도록 시키기 않는다.
+(대응값을 변화시키면서 최적해를 찾는다!)
+
 Train Data의 미분값의 전체 평균을 구한다.
 
 <img src=./image/gradientSol.png>
@@ -61,6 +64,6 @@ classification의 기울기는 항상 0 or 1이다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTQ2NDA0NywtNDgzNzEzMTkzLC0xOT
-M2MTI0NTc1XX0=
+eyJoaXN0b3J5IjpbOTcyNjg5NDAxLC00ODM3MTMxOTMsLTE5Mz
+YxMjQ1NzVdfQ==
 -->
