@@ -5,6 +5,7 @@
 
 목표: TrainLoss의 최소값을 찾는것.
 
+데이터의 차원에 따라 한 차원 낮은 단계로 기울기 함수가 만들어 진다.
 
 <img src=./image/trainLoss0.png>
 
@@ -13,6 +14,7 @@
 
 
 > Q. 최적화 방법은? 
+> 
 >  A. 일정 크기(Step Size)만큼 TrainLoss그래프를 확인하는 것! 
 
 #### Gradient Descent
@@ -59,5 +61,6 @@ classification의 기울기는 항상 0 or 1이다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzcxMzE5MywtMTkzNjEyNDU3NV19
+eyJoaXN0b3J5IjpbMTk5NTQ2NDA0NywtNDgzNzEzMTkzLC0xOT
+M2MTI0NTc1XX0=
 -->
