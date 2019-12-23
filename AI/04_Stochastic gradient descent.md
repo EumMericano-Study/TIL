@@ -53,7 +53,7 @@ Gradient Descent 의 문제점?
 기본적으로 데이터가 많아야 한다.
 
 GD가 더 정확하지만, SGD가 더 빠르다.
-(나눈만큼 비정확하지만 )
+(나눈만큼 정확도가 낮아지고 속도가 올라간다.)
 ```
 
 <img src=./image/SGD_GD.png>
@@ -64,16 +64,19 @@ GD가 더 정확하지만, SGD가 더 빠르다.
 기본적으로 설정되는 스텝사이즈는 0.1,
 Step Size를 조정한 횟수 만큼 step size를 조정한다.
 
-<img src=./image/zeroone.png>
 
+#### Hinge Loss
 
 classification의 기울기는 항상 0 or 1이다.
 값이 변하는 위치에서 margin을 1만큼 증가시킨 기울기 중 최대값을 구한다. (최대값이 최종 기울기가 된다.)
+
+<img src=./image/zeroone.png>
+
 
 <img src=./image/HingeLoss.png>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDA5NTc3NywtNDgzNzEzMTkzLC0xOT
-M2MTI0NTc1XX0=
+eyJoaXN0b3J5IjpbMzc1ODI2OTI0LC00ODM3MTMxOTMsLTE5Mz
+YxMjQ1NzVdfQ==
 -->
