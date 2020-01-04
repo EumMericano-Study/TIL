@@ -2,3 +2,4 @@
 https://www.kaggle.com/kimchiwoong/santander-product-recommendation
 
 > 시간을 측정하여 행의 갯수를 제한함. 참고하고 활용해보기
+> jupyter환경에서 분석할 수 없을때 kaggle 환경만으로 구현이 가능함.
