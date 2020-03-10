@@ -1,0 +1,7 @@
+CSS 선택자 설명 사이트
+
+w3 schools
+https://www.w3schools.com/cssref/css_selectors.asp
+
+github
+https://gist.github.com/magicznyleszek/809a69dd05e1d5f12d01
