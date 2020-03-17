@@ -1,0 +1,8 @@
+노마드코더 순서
+
+Junior 과정 (AirBnb Clone 과정)
+->
+Mid 과정 (Instagram Clone 과정)
+->
+Senior 과정 (Uber Clone 과정)
+
