@@ -1,4 +1,4 @@
-노마드코더 순서
+노마드코더 공부 순서
 
 Junior 과정 (AirBnb Clone 과정)
 ->
