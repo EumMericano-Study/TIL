@@ -1,6 +1,6 @@
 노마드코더 공부 순서
 
-Junior 과정 (AirBnb Clone 과정)
+Junior 과정 (AirBnb Clone 과정) -> css마스터는 맨 마지막에
 ->
 Mid 과정 (Instagram Clone 과정)
 ->
