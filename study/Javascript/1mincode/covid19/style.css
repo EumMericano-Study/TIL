@@ -54,6 +54,13 @@ img {
     opacity: 1;
 }
 
+.bird {
+    width: 100px;
+    position: absolute;
+    left: 0;
+    bottom: 70%;
+}
+
 .scroll-text {
     width: 100%;
     height: 100%;
