@@ -48,6 +48,7 @@ img {
 
     opacity: 0;
     transition: opacity 0.5s;
+    will-change: opacity;
 }
 
 .visible {
@@ -59,7 +60,7 @@ img {
     position: absolute;
     left: 0;
     bottom: 70%;
-    transition: 2s ease-in-out;
+    transition: 1.7s 0.5s ease-in-out;
     transform: translateX(-150%);
 }
 [data-index="5"] .bird {
