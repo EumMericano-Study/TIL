@@ -59,7 +59,12 @@ img {
     position: absolute;
     left: 0;
     bottom: 70%;
-    transition: 1.5s;
+    transition: 2s ease-in-out;
+    transform: translateX(-150%);
+}
+[data-index="5"] .bird {
+    left: 30%;
+    bottom: 30%;
 }
 
 .scroll-text {

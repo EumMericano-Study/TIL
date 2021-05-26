@@ -1,9 +1,19 @@
 (() => {
     const actions = {
-        birdFlies() {
+        birdFlies(key) {
+            let birdPosition = -100;
+            if (key) birdPosition = window.innerWidth + 300;
             document.querySelector(
                 '[data-index="2"] .bird'
-            ).style.transform = `translateX(${window.innerWidth}px)`;
+            ).style.transform = `translateX(${birdPosition}px)`;
+        },
+        birdFlies2(key) {
+            let birdPosition = [-100, 0];
+            if (key)
+                birdPosition = [window.innerWidth, -window.innerHeight * 0.7];
+            document.querySelector(
+                '[data-index="5"] .bird'
+            ).style.transform = `translate(${birdPosition[0]}px, ${birdPosition[1]}px)`;
         },
     };
 
@@ -26,12 +36,15 @@
     function activate(action) {
         currentItem.classList.add("visible");
         if (action) {
-            actions[action]();
+            actions[action](true);
         }
     }
 
-    function inactivate() {
+    function inactivate(action) {
         currentItem.classList.remove("visible");
+        if (action) {
+            actions[action](false);
+        }
     }
 
     window.addEventListener("scroll", () => {
@@ -48,7 +61,7 @@
                 boundingRect.top > window.innerHeight * 0.1 &&
                 boundingRect.top < window.innerHeight * 0.8
             ) {
-                inactivate();
+                inactivate(currentItem.dataset.action);
                 currentItem = imageElements[step.dataset.index];
                 activate(currentItem.dataset.action);
             }
