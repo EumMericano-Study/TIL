@@ -1,4 +1,12 @@
 (() => {
+    const actions = {
+        birdFlies() {
+            document.querySelector(
+                '[data-index="2"] .bird'
+            ).style.transform = `translateX(${window.innerWidth}px)`;
+        },
+    };
+
     const imageElements = document.querySelectorAll(".graphic-item");
     const stepElements = document.querySelectorAll(".step");
 
@@ -15,8 +23,11 @@
         imageElements[i].dataset.index = i;
     }
 
-    function activate() {
+    function activate(action) {
         currentItem.classList.add("visible");
+        if (action) {
+            actions[action]();
+        }
     }
 
     function inactivate() {
@@ -39,7 +50,7 @@
             ) {
                 inactivate();
                 currentItem = imageElements[step.dataset.index];
-                activate();
+                activate(currentItem.dataset.action);
             }
         }
     });
